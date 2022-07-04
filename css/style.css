@@ -1,0 +1,25 @@
+main {
+    padding: 0;
+    margin: 0;
+    background-color: rgb(19, 0, 20);
+    color: white;
+}
+
+.ad-img {
+    background-image: url('../assets/Flyer1.jpg');
+    background-size: cover;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+
+.navbar-nav a {
+    font-size: 18pt;
+}
+
+.navbar-nav a:hover {
+    border-bottom: 1px solid white;
+}
+
+.navbar-nav img {
+    padding-right: 10px;
+}
